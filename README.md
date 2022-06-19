@@ -1,2 +1,3 @@
 # git
-Git crash for SCs
+Dharel U. Dorado
+Git crash for SEs
