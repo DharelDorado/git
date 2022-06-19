@@ -1,3 +1,3 @@
 # git
 Dharel U. Dorado
-Git crash for SEs
+Git crash-course for SEs
